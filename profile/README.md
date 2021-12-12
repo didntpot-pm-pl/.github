@@ -1,0 +1,3 @@
+| Plugins | State | API | Downloads Total | Downloads | Lint |
+| :-----: | :---: | :-: | :-------------: | :-------: | :--: |
+| [Ping Manager](https://github.com/didntpot-pm-pl/PingManager) | [![](https://poggit.pmmp.io/shield.state/PingManager)](https://poggit.pmmp.io/p/PingManager) | [![](https://poggit.pmmp.io/shield.api/PingManager)](https://poggit.pmmp.io/p/PingManager) | [![](https://poggit.pmmp.io/shield.dl.total/PingManager)](https://poggit.pmmp.io/p/PingManager) | [![](https://poggit.pmmp.io/shield.dl/PingManager)](https://poggit.pmmp.io/p/PingManager) | [![](https://poggit.pmmp.io/ci.shield/didntpot-pm-pl/PingManager)](https://poggit.pmmp.io/ci/didntpot-pm-pl/PingManager)|
